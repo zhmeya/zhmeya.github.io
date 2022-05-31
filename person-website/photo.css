@@ -1,0 +1,18 @@
+.imge{
+  width:100px;
+}
+.xxx1{
+  background-color: #FFFFFF;
+  cursor:hand;
+  transition: 0.35s;
+}
+a{
+  text-decoration:none;
+  color: #000;
+}
+.card-body{
+  background-color: #F2F2F2;
+}
+.color a:hover{
+  color:blue;
+}
